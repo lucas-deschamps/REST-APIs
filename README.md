@@ -1,3 +1,3 @@
 # REST-APIs
 
-My current experience with the development of REST APIs via Flask-RESTful.
+My current experience with the development of RESTful APIs, via Flask and Flask-RESTful.
